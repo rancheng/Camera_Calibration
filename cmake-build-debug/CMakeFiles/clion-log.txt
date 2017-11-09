@@ -1,0 +1,5 @@
+/home/ran/Documents/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ran/CLionProjects/camera_calibration
+-- Found OpenCV: /opt/ros/kinetic (found version "3.2.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ran/CLionProjects/camera_calibration/cmake-build-debug
